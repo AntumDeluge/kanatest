@@ -1,0 +1,698 @@
+# Spanish translation of Kanatest
+# This file is distributed under the same license as the Kanatest package.
+# Daniel Halens Rodriguez <daniel.halens@sabayonlinux.org>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kanatest 0.4.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-04-12 13:48+0200\n"
+"PO-Revision-Date: 2009-02-15 05:41-0000\n"
+"Last-Translator: Daniel Halens Rodriguez <daniel.halens@sabayonlinux.org>\n"
+"Language-Team: Spanish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "About"
+msgstr "Acerca de"
+
+msgid "compiled on"
+msgstr "compilado el"
+
+msgid "Programming"
+msgstr "Programación"
+
+msgid "Graphics"
+msgstr "Gráficos"
+
+msgid "Translators"
+msgstr "Traductores"
+
+msgid ""
+"We would like to thank the following people for suggestions, bug reports and "
+"patches:"
+msgstr ""
+"Nos gustarí­a dar nuestro agradecimiento a las siguientes personas por sus "
+"sugerencias, reportes de bugs y parches:"
+
+msgid "Contributors"
+msgstr "Colaboradores"
+
+msgid ""
+"If you like our program, send a postcard with a photo of the city where you "
+"live to"
+msgstr ""
+"Si te gusta el programa, enví­a una postal con una foto de la ciudad en "
+"donde vives a"
+
+msgid "We have received several postcards from our happy users"
+msgstr "Hemos recibido varias postales de usuarios felices"
+
+msgid ""
+"Your postcards are a kind of motivation that encourages us to keep improving "
+"Kanatest :)"
+msgstr ""
+"Las postales son una forma de motivación que nos ayuda a seguir mejorando "
+"Kanatest :)"
+
+msgid "Thank you!"
+msgstr "¡Gracias!"
+
+msgid "Postcards"
+msgstr "Postales"
+
+msgid "License"
+msgstr "Licencia"
+
+msgid "Kana chart"
+msgstr "Tabla de Kanas"
+
+msgid "Hiragana"
+msgstr "Hiragana"
+
+msgid "Katakana"
+msgstr "Katakana"
+
+msgid "Test is in progress... Abort?"
+msgstr "Estás en medio de un test... ¿Cancelar?"
+
+msgid "Question"
+msgstr "Pregunta"
+
+msgid "Select test mode, kana set and press START"
+msgstr ""
+"Selecciona el tipo de test, el conjunto de kanas y haz click en COMENZAR"
+
+msgid "Romaji"
+msgstr "Romaji"
+
+msgid "Statistics"
+msgstr "Estadí­sticas"
+
+msgid "Options"
+msgstr "Opciones"
+
+msgid "Test mode"
+msgstr "Tipo de test"
+
+msgid "Kana set"
+msgstr "Conjunto de kanas"
+
+msgid "Start"
+msgstr "Comenzar"
+
+msgid "Press to begin testing..."
+msgstr "Clic para comenzar el test..."
+
+msgid "Stop"
+msgstr "Parar"
+
+msgid "Press to stop testing..."
+msgstr "Clic para parar el test..."
+
+msgid "Quit"
+msgstr "Salir"
+
+msgid "Exit!"
+msgstr "Salir"
+
+msgid "Select kana font"
+msgstr "Elegir fuente"
+
+msgid "Please select at least two kanas to test."
+msgstr "Por favor, selecciona al menos dos kanas para el test."
+
+msgid "Error"
+msgstr "Error"
+
+msgid "no kanas found"
+msgstr "no se encontraron kanas"
+
+#, fuzzy
+msgid "kana found"
+msgid_plural "kanas found"
+msgstr[0] "kanas encontrados"
+msgstr[1] "kanas encontrados"
+
+msgid "Statistics based selection"
+msgstr "Basándose en las estadí­sticas"
+
+msgid "From"
+msgstr "Desde"
+
+msgid "To"
+msgstr "Hasta"
+
+msgid "Ratio range"
+msgstr "Porcentaje de acierto"
+
+msgid "Kanas"
+msgstr "Kanas"
+
+msgid "Select"
+msgstr "Seleccionar"
+
+msgid "General"
+msgstr "General"
+
+msgid "Drill options"
+msgstr "Opciones del test"
+
+msgid "Display each kana once"
+msgstr "Mostrar cada kana una sola vez"
+
+msgid ""
+"When this option is enabled the kanatest will display every question once"
+msgstr ""
+"Cuando esta opción está seleccionada, kanatest mostrará cada pregunta una "
+"sola vez"
+
+msgid "Repeat wrongly-answered questions"
+msgstr "Repetir los kanas fallados"
+
+msgid ""
+"When this option is enabled the kanatest will repeat all wrongly answered "
+"questions at the end of test"
+msgstr ""
+"Cuando esta opción está seleccionada, kanatest repetirá las preguntas "
+"falladas"
+
+msgid "Repeat all forever"
+msgstr "Repetir todos continuamente"
+
+msgid ""
+"When this option is enabled the kanatest will repeat all questions forever"
+msgstr ""
+"Cuando esta opción está seleccionada, kanatest repetirá todas las preguntas "
+"continuamente"
+
+msgid "Correct answer display timeout"
+msgstr "Pausa despues de pregunta acertada"
+
+msgid "Disabled"
+msgstr "Deshabilitado"
+
+msgid "1 sec"
+msgstr "1 segundo"
+
+msgid "2 sec"
+msgstr "2 segundos"
+
+msgid "3 sec"
+msgstr "3 segundos"
+
+msgid "Until any key will be pressed"
+msgstr "Hasta pulsar una tecla"
+
+msgid "Appearance"
+msgstr "Aspecto"
+
+msgid "Kana color"
+msgstr "Color de los kanas"
+
+msgid "Romaji color"
+msgstr "Color del romaji"
+
+msgid "User-defined lesson"
+msgstr "Lección definida por el usuario"
+
+msgid "Select all kanas in row"
+msgstr "Seleccionar todos los kanas de la fila"
+
+msgid "Deselect all kanas in row"
+msgstr "Deseleccionar todos los kanas de la fila"
+
+msgid "Selected kanas"
+msgstr "Kanas seleccionados"
+
+msgid "Display as"
+msgstr "Mostrar en"
+
+msgid "All"
+msgstr "Todos"
+
+msgid "None"
+msgstr "Ninguno"
+
+msgid "Invert"
+msgstr "Invertir"
+
+msgid "Please select options"
+msgstr "Selecciona las opciones"
+
+msgid "Remove lessons list"
+msgstr "Eliminar lista de lecciones"
+
+msgid "Remove Hiragana statistics"
+msgstr "Eliminar estadí­sticas de Hiragana"
+
+msgid "Remove Katakana statistics"
+msgstr "Eliminar estadí­sticas de Katakana"
+
+msgid "No further recovery will be possible. Continue ?"
+msgstr "Los datos no se podrán recuperar. ¿Continuar?"
+
+msgid "Date"
+msgstr "Fecha"
+
+msgid "Test time"
+msgstr "Duración"
+
+msgid "Questions"
+msgstr "Preguntas"
+
+msgid "Correct"
+msgstr "Correctas"
+
+msgid "Wrong"
+msgstr "Fallidas"
+
+msgid "Ratio (%)"
+msgstr "Ratio (%)"
+
+msgid "Lessons"
+msgstr "Lecciones"
+
+#, fuzzy
+msgid "Graph"
+msgstr "Gráficos"
+
+msgid "Reset"
+msgstr "Limpiar"
+
+msgid "RW"
+msgstr "RF"
+
+msgid "RA"
+msgstr "RT"
+
+msgid "Chart"
+msgstr "Tabla"
+
+msgid "Mixed"
+msgstr "Mezclado"
+
+msgid "All kanas"
+msgstr "Todos los kanas"
+
+msgid "Basic kanas"
+msgstr "Kanas básicos"
+
+msgid "A-I-U-E-O"
+msgstr "A-I-U-E-O"
+
+msgid "KA-KI-KU-KE-KO"
+msgstr "KA-KI-KU-KE-KO"
+
+msgid "SA-SHI-SU-SE-SO"
+msgstr "SA-SHI-SU-SE-SO"
+
+msgid "TA-CHI-TSU-TE-TO"
+msgstr "TA-CHI-TSU-TE-TO"
+
+msgid "NA-NI-NU-NE-NO"
+msgstr "NA-NI-NU-NE-NO"
+
+msgid "HA-HI-FU-HE-HO"
+msgstr "HA-HI-FU-HE-HO"
+
+msgid "MA-MI-MU-ME-MO"
+msgstr "MA-MI-MU-ME-MO"
+
+msgid "YA-YU-YO"
+msgstr "YA-YU-YO"
+
+msgid "RA-RI-RU-RE-RO"
+msgstr "RA-RI-RU-RE-RO"
+
+msgid "WA-WO-N"
+msgstr "WA-WO-N"
+
+msgid "Combo letters (part 1)"
+msgstr "Letras combo (parte 1)"
+
+msgid "Combo letters (part 2)"
+msgstr "Letras combo (parte 2)"
+
+#. TRANSLATORS: if there exist several possible transliterations for kanas, they must be separated by comma
+#. 0
+#. 1
+#. 2
+#. 3
+#. 4
+msgid "a"
+msgstr "a"
+
+msgid "i"
+msgstr "i"
+
+msgid "u"
+msgstr "u"
+
+msgid "e"
+msgstr "e"
+
+msgid "o"
+msgstr "o"
+
+msgid "ka"
+msgstr "ka"
+
+msgid "ki"
+msgstr "ki"
+
+msgid "ku"
+msgstr "ku"
+
+msgid "ke"
+msgstr "ke"
+
+msgid "ko"
+msgstr "ko"
+
+msgid "sa"
+msgstr "sa"
+
+msgid "shi"
+msgstr "shi"
+
+msgid "su"
+msgstr "su"
+
+msgid "se"
+msgstr "se"
+
+msgid "so"
+msgstr "so"
+
+msgid "ta"
+msgstr "ta"
+
+msgid "chi"
+msgstr "chi"
+
+msgid "tsu"
+msgstr "tsu"
+
+msgid "te"
+msgstr "te"
+
+msgid "to"
+msgstr "to"
+
+msgid "na"
+msgstr "na"
+
+msgid "ni"
+msgstr "ni"
+
+msgid "nu"
+msgstr "nu"
+
+msgid "ne"
+msgstr "ne"
+
+msgid "no"
+msgstr "no"
+
+msgid "ha"
+msgstr "ha"
+
+msgid "hi"
+msgstr "hi"
+
+msgid "fu"
+msgstr "fu"
+
+msgid "he"
+msgstr "he"
+
+msgid "ho"
+msgstr "ho"
+
+msgid "ma"
+msgstr "ma"
+
+msgid "mi"
+msgstr "mi"
+
+msgid "mu"
+msgstr "mu"
+
+msgid "me"
+msgstr "me"
+
+msgid "mo"
+msgstr "mo"
+
+msgid "ya"
+msgstr "ya"
+
+msgid "yu"
+msgstr "yu"
+
+msgid "yo"
+msgstr "yo"
+
+msgid "ra"
+msgstr "ra"
+
+msgid "ri"
+msgstr "ri"
+
+msgid "ru"
+msgstr "ru"
+
+msgid "re"
+msgstr "re"
+
+msgid "ro"
+msgstr "ro"
+
+msgid "wa"
+msgstr "wa"
+
+msgid "wo"
+msgstr "wo"
+
+msgid "n"
+msgstr "n"
+
+msgid "ga"
+msgstr "ga"
+
+msgid "gi"
+msgstr "gi"
+
+msgid "gu"
+msgstr "gu"
+
+msgid "ge"
+msgstr "ge"
+
+msgid "go"
+msgstr "go"
+
+msgid "za"
+msgstr "za"
+
+msgid "ji"
+msgstr "ji"
+
+msgid "zu"
+msgstr "zu"
+
+msgid "ze"
+msgstr "ze"
+
+msgid "zo"
+msgstr "zo"
+
+msgid "da"
+msgstr "da"
+
+msgid "di,ji"
+msgstr "di,ji"
+
+msgid "du,zu"
+msgstr "du,zu"
+
+msgid "de"
+msgstr "de"
+
+msgid "do"
+msgstr "do"
+
+msgid "ba"
+msgstr "ba"
+
+msgid "bi"
+msgstr "bi"
+
+msgid "bu"
+msgstr "bu"
+
+msgid "be"
+msgstr "be"
+
+msgid "bo"
+msgstr "bo"
+
+msgid "pa"
+msgstr "pa"
+
+msgid "pi"
+msgstr "pi"
+
+msgid "pu"
+msgstr "pu"
+
+msgid "pe"
+msgstr "pe"
+
+msgid "po"
+msgstr "po"
+
+msgid "kya"
+msgstr "kya"
+
+msgid "kyu"
+msgstr "kyu"
+
+msgid "kyo"
+msgstr "kyo"
+
+msgid "sha"
+msgstr "sha"
+
+msgid "shu"
+msgstr "shu"
+
+msgid "sho"
+msgstr "sho"
+
+msgid "cha"
+msgstr "cha"
+
+msgid "chu"
+msgstr "chu"
+
+msgid "cho"
+msgstr "cho"
+
+msgid "nya"
+msgstr "nya"
+
+msgid "nyu"
+msgstr "nyu"
+
+msgid "nyo"
+msgstr "nyo"
+
+msgid "hya"
+msgstr "hya"
+
+msgid "hyu"
+msgstr "hyu"
+
+msgid "hyo"
+msgstr "hyo"
+
+msgid "mya"
+msgstr "mya"
+
+msgid "myu"
+msgstr "myu"
+
+msgid "myo"
+msgstr "myo"
+
+msgid "rya"
+msgstr "rya"
+
+msgid "ryu"
+msgstr "ryu"
+
+msgid "ryo"
+msgstr "ryo"
+
+msgid "gya"
+msgstr "gya"
+
+msgid "gyu"
+msgstr "gyu"
+
+msgid "gyo"
+msgstr "gyo"
+
+msgid "ja"
+msgstr "ja"
+
+msgid "ju"
+msgstr "ju"
+
+msgid "jo"
+msgstr "jo"
+
+msgid "bya"
+msgstr "bya"
+
+msgid "byu"
+msgstr "byu"
+
+msgid "byo"
+msgstr "byo"
+
+msgid "pya"
+msgstr "pya"
+
+msgid "pyu"
+msgstr "pyu"
+
+msgid "pyo"
+msgstr "pyo"
+
+msgid "minute and"
+msgid_plural "minutes and"
+msgstr[0] "minuto y"
+msgstr[1] "minutos y"
+
+msgid "second"
+msgid_plural "seconds"
+msgstr[0] "segundo"
+msgstr[1] "segundos"
+
+msgid "Test has finished!"
+msgstr "Test completado"
+
+msgid "Total questions"
+msgstr "Preguntas totales"
+
+msgid "unique"
+msgstr "únicas"
+
+msgid "Correct answers"
+msgstr "Respuestas correctas"
+
+msgid "Wrong answers"
+msgstr "Respuestas fallidas"
+
+msgid "Correctness ratio"
+msgstr "Ratio de aciertos"
+
+msgid "Drilling-time"
+msgstr "Duración del test"
+
+msgid "Information"
+msgstr "Información"
+
+#~ msgid "Misc options"
+#~ msgstr "Otras opciones"
+
+#~ msgid "Enable tooltips"
+#~ msgstr "Habilitar tooltips"
+
+#~ msgid "Toggle to enable/disable tooltips"
+#~ msgstr "Habilita/deshabilita los tooltips"
