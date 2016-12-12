@@ -19,3 +19,6 @@ Makefile.in
 /depcomp
 /install-sh
 /missing
+
+# Build directory
+/build/
