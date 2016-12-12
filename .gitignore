@@ -6,3 +6,6 @@
 # aclocal file & directories
 /aclocal.m4
 /autom4te.cache/
+
+# autoheader files
+/config.h.in
