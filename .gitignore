@@ -9,3 +9,6 @@
 
 # autoheader files
 /config.h.in
+
+# autoconf file
+/configure
