@@ -12,3 +12,10 @@
 
 # autoconf file
 /configure
+
+# automake files
+Makefile.in
+/compile
+/depcomp
+/install-sh
+/missing
