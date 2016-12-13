@@ -780,7 +780,7 @@ HildonGtkInputMode input_mode;
 #ifndef REV
     sprintf (buffer, "Kanatest %s", VERSION);
 #else
-    sprintf (buffer, "Kanatest SVN r%d", REV);
+    sprintf (buffer, "Kanatest git%d", REV);
 #endif
     gtk_window_set_title (GTK_WINDOW (appGUI->main_window), buffer);
 

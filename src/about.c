@@ -291,7 +291,7 @@ gchar *translators[] = {
 #ifndef REV
     sprintf (buffer, "Kanatest %s\n", VERSION);
 #else
-    sprintf (buffer, "Kanatest SVN r%d\n", REV);
+    sprintf (buffer, "Kanatest git%d\n", REV);
 #endif
 #endif
     gtk_text_buffer_insert_with_tags_by_name (entry_buffer, &iter,
