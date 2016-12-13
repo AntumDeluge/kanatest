@@ -1,5 +1,6 @@
 if !MAEMO
-REVISION ?= $(shell if [ -d "../.git" ]; then echo "-DREV=$(shell LC_ALL=C git log --pretty=format:"%ci" --name-status HEAD^..HEAD | head -1 | cut -c1-17 | sed -e 's/[-:]//g' -e 's/[ ]/\./')"; fi;)
+#REVISION ?= $(shell if [ -d "../.git" ]; then echo "-DREV=$(shell LC_ALL=C git log --pretty=format:"%ci" --name-status HEAD^..HEAD | head -1 | cut -c1-17 | sed -e 's/[-:]//g' -e 's/[ ]/\./')"; fi;)
+REVISION ?= $(shell if [ -d "../.git" ]; then echo "-DREV=$(shell LC_ALL=C git log --pretty=format:"%ct" --name-status HEAD^..HEAD | head -1 | cut -c1-17 | sed -e 's/[-:]//g')"; fi;)
 AM_CPPFLAGS = -Wall -DLOCALEDIR=\"$(datadir)/locale\" $(REVISION) \
 			  -DGDK_PIXBUF_DISABLE_DEPRECATED -DGDK_DISABLE_DEPRECATED
 bin_PROGRAMS = kanatest
