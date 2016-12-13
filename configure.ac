@@ -3,7 +3,7 @@
 
 AC_PREREQ(2.59)
 AC_INIT([Kanatest], [0.4.10], [pasp@users.sf.net])
-AM_INIT_AUTOMAKE([-Wall -Werror foreign])
+AM_INIT_AUTOMAKE([-Wall -Werror -Wno-portability foreign])
 AC_CONFIG_SRCDIR([src/about.c])
 AC_CONFIG_HEADER([config.h])
 
